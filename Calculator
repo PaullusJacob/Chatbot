@@ -1,0 +1,10 @@
+import javax.swing.*;
+import java.awt.BorderLayout;
+import java.awt.event.*;
+
+public class Calculator extends JFrame {
+    public Calculator() {
+    }
+    public void actionPerformed(ActionEvent e) {
+    }
+}
