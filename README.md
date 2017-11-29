@@ -1,5 +1,5 @@
 # Calculator
 
-Semester Project for CS2336
+Homework for CS2336
 
-Edited programming calculator from Windows
+Chatbot that calls 2 seperate API's
